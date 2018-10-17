@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+############################
+# Author: Anna Mathioudaki #
+############################
+
 # <><><> Required Packages <><><>
 from Bio import AlignIO
 import argparse
